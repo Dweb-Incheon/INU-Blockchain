@@ -19,4 +19,6 @@
 ## 참고
 🔗 이더스캔 (테스트넷): https://sepolia.etherscan.io/ 
 
-🔗 유니스왑: https://app.uniswap.org 
+🔗 유니스왑: https://app.uniswap.org
+
+🔗 이더리움 테스트넷 Faucet: https://cloud.google.com/application/web3/faucet/ethereum/sepolia
