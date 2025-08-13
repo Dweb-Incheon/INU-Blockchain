@@ -13,3 +13,10 @@
 ✅ INU 토큰 스마트 계약 주소: 0x49c96d7833A4B9E9340BD49FF0D07Eb17Ace7B1f
 
 🧑‍💻 Mint/Burn: https://inu-token.vercel.app/
+
+
+---
+# 참고
+🔗 이더스캔 (테스트넷): https://sepolia.etherscan.io/ 
+
+🔗 유니스왑: https://app.uniswap.org 
