@@ -38,5 +38,4 @@
 
 🔗 OpenSea: https://opensea.io/collection/cryptopunks/explore
 
-🔗 Pinata: https://opensea.io/collection/cryptopunks/explore
-
+🔗 Pinata: https://pinata.cloud
