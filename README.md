@@ -36,6 +36,8 @@
 
 🔗 이더리움 테스트넷 Faucet: https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 
+🔗 IPFS Desktop: https://docs.ipfs.tech/install/ipfs-desktop
+
 🔗 OpenSea: https://opensea.io/collection/cryptopunks/explore
 
 🔗 Pinata: https://pinata.cloud
