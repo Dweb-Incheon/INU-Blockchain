@@ -1,4 +1,4 @@
-# 기초과정 1 (2025.07.24)
+<img width="412" height="111" alt="image" src="https://github.com/user-attachments/assets/01a0e7bd-3b80-42d4-8b5a-f490f62f1031" /># 기초과정 1 (2025.07.24)
 
 ✅ 눈치게임 스마트 계약 주소: 0x9f34845742c53DAf8711165082BD25348Be3b43a
 
@@ -51,6 +51,19 @@ https://ipfs.io/ipfs/bafybeihlsv4qxwlrvct26ab7d5dveipbwxdjqycvqo5hfdgzbipmdew7bi
 
 ---
 
+# 고급 과정 3 (2025.09.26)
+
+👝 메타마스크 네트워크 추가
+- 네트워크 이름: Arbitrum Sepolia
+- RPC URL: https://sepolia-rollup.arbitrum.io/rpc
+- 체인 ID: 421614
+- 통화 기호: ETH
+- 블록 탐색기 URL: https://sepolia.arbiscan.io
+
+✅ (아비트럼 테스트넷) Storage 스마트 계약 주소: 0xf25B9fF0bd63612B5eF7Ce3D238EFfD73755cd01
+
+---
+
 ## 참고
 
 🔗 이더스캔 (테스트넷): https://sepolia.etherscan.io/
@@ -66,3 +79,7 @@ https://ipfs.io/ipfs/bafybeihlsv4qxwlrvct26ab7d5dveipbwxdjqycvqo5hfdgzbipmdew7bi
 🔗 Pinata: https://pinata.cloud
 
 🔗 Remix: https://remix-project.org/?lang=ko
+
+🔗 아비트럼 (테스트넷): https://sepolia.arbiscan.io
+
+🔗 아비트럼 Bridge: https://bridge.arbitrum.io/?l2ChainId=421614
