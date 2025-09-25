@@ -1,4 +1,4 @@
-<img width="412" height="111" alt="image" src="https://github.com/user-attachments/assets/01a0e7bd-3b80-42d4-8b5a-f490f62f1031" /># 기초과정 1 (2025.07.24)
+# 기초과정 1 (2025.07.24)
 
 ✅ 눈치게임 스마트 계약 주소: 0x9f34845742c53DAf8711165082BD25348Be3b43a
 
